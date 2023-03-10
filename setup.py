@@ -3,10 +3,10 @@ from setuptools import setup
 
 
 setup(
-    name='enigma',
+    name='insper_enigma',
     version='0.0.3',
 
-    url='https://github.com/st4pzz/APS2_ALGLIN.git',
+    url='https://github.com/st4pzz/package_enigma',
     author='Sergio Ramella e Alexandre Wever',
     author_email='ramellajr@gmail.com',
 
